@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "book-name": "English",
+            "author": "J. K. Rowling",
+            "cost": 1299
+        },
+        {
+            "id": 2,
+            "book-name": "Bangla",
+            "author": "J. F. Lowling",
+            "cost": 1399
+        }
+    ]
+}
